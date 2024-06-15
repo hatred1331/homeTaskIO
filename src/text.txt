@@ -1,0 +1,12 @@
+Java – это многоплатформенный, объектно-ориентированный и сетецентрический язык,
+который сам по себе может использоваться как платформа.
+Это быстрый, безопасный и надежный язык программирования для всего: от мобильных приложений и корпоративного ПО
+до приложений для работы с большими данными и серверных технологий.
+Поскольку Java является бесплатным и универсальным языком,
+на нем создаются локализованные и распространяемые программы.
+Java is a multi–platform, object-oriented and network-centric language
+that can be used as a platform by itself.
+It is a fast, secure and reliable programming language for everything from mobile applications and enterprise software
+to big data applications and server technologies.
+Since Java is a free and universal language,
+localized and redistributable programs are created in it.

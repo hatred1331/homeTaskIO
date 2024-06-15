@@ -1,0 +1,41 @@
+{latroM stnemelpmi oreH ssalc tcartsba cilbup
+;eman gnirtS detcetorp    
+;egamad tni  detcetorp    
+;htlaeh tni detcetorp    
+;}{)(oreH cilbup    
+
+{)htlaeh tni ,egamad tni ,eman gnirtS(oreH cilbup    
+;eman = eman.siht        
+;egamad = egamad.siht        
+;htlaeh = htlaeh.siht        
+}    
+
+;)ymene ymenE(ymenEkcatta diov tcartsba cilbup    
+
+
+{)(evilAsi naeloob cilbup    
+)0 > htlaeh(fi        
+;eurt nruter            
+;eslaf nruter esle        
+}    
+
+{ )eman gnirtS(emaNtes diov cilbup    
+;eman = eman.siht        
+}    
+
+{)(emaNteg gnirtS cilbup    
+;eman nruter        
+}    
+
+{)htlaeh tni(htlaeHtes diov cilbup    
+;htlaeh = htlaeh.siht        
+}    
+
+{)(htlaeHteg tni cilbup    
+;htlaeh nruter        
+}    
+
+{)egamad tni(egamaDekat diov cilbup    
+;egamad =- htlaeh        
+}    
+}

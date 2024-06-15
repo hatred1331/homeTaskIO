@@ -1,0 +1,41 @@
+private abstract class Hero implements Mortal{
+    protected String name;
+    protected  int damage;
+    protected int health;
+    private Hero(){};
+
+    private Hero(String name, int damage, int health){
+        this.name = name;
+        this.damage = damage;
+        this.health = health;
+    }
+
+    private abstract void attackEnemy(Enemy enemy);
+
+
+    private boolean isAlive(){
+        if(health > 0)
+            return true;
+        else return false;
+    }
+
+    private void setName(String name) {
+        this.name = name;
+    }
+
+    private String getName(){
+        return name;
+    }
+
+    private void setHealth(int health){
+        this.health = health;
+    }
+
+    private int getHealth(){
+        return health;
+    }
+
+    private void takeDamage(int damage){
+        health -= damage;
+    }
+}
